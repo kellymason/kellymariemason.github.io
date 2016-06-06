@@ -2,7 +2,7 @@
 layout: post
 title: Just Write
 thumbnail-path: "img/just-write.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+short-description: Just Write is a journaling app for communities of writers.
 
 ---
 
