@@ -2,7 +2,7 @@
 layout: post
 title: Just Write
 thumbnail-path: "img/just-write.png"
-short-description: Just Write is a journaling app for communities of writers.
+short-description: Just Write is a journaling app that holds writers and writing groups accountable, one word at a time.
 
 ---
 
