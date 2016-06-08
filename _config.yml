@@ -13,9 +13,7 @@ theme:
      <h1>Educator turned Software Engineer. Nerd.</h1>
      <p>I'm a kickass developer specializing in Rails.</p>
   header_text_feature_image: 
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
-
+  footer_text: 
   # Icons
   rss: false
   email_address: hello@kellymariemason.com
