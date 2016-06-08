@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drop me a line.
+title: Contact me
 permalink: /contact/
 feature-img: "img/color.png"
 ---
