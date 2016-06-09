@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contact
+title: Drop me a line.
 permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-If you're interested in working with me, or simply would like to say hello, don't by shy—send me a message.
+Interested in working with me? Just saying hello? Don't be shy—send me a message.
 
 <form action="https://getsimpleform.com/messages?form_api_token=3687863f00045f5c115282e4a638890f" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
