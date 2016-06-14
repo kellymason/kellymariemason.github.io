@@ -5,4 +5,4 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-An educator-turned-developer, I'm passionated about accessible education for all, and I love working on new tools to make this dream a reality.
+An educator-turned-developer, I'm passionate about accessible education for all, and I love working on new tools to make this dream a reality.
