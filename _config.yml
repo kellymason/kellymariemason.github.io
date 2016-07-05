@@ -11,7 +11,7 @@ theme:
   # Header and footer text
   header_text: >
      <h1>Educator turned Software Engineer. Nerd.</h1>
-     <p>I'm a kickass developer specializing in Rails.</p>
+     <p>I'm a developer specializing in Rails.</p>
   header_text_feature_image: 
   footer_text: 
   # Icons
