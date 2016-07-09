@@ -12,7 +12,7 @@ theme:
   header_text: >
      <h1>Educator turned Software Engineer. Nerd.</h1>
      <p>I'm a developer specializing in Rails.</p>
-  header_text_feature_image: 
+  header_text_feature_image: "img/color-explosion.png"
   footer_text: 
   # Icons
   rss: false

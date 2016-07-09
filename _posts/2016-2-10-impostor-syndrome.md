@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Impostor Syndrome for N00bs
-feature-img: "img/impostor-syndrome.png"
+feature-img: "img/impostor-syndrome.jpg"
 ---
-
+![]({{ site.baseurl }}/img/impostor-syndrome.png)
 Why building confidence is just as important as building programming skills.
 
 _Originally posted for the [Bloc blog](blog.bloc.io)._
