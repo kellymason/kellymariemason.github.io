@@ -1,13 +1,16 @@
 ---
 layout: post
 title: Just Write
-thumbnail-path: "img/just-write.png"
-short-description: A habit-forming writing app for keeping individuals and writing communities accountable, one word at a time.
+thumbnail-path: "img/just-write-2.png"
+short-description: A habit-forming writing app for keeping individuals and writing communities accountable, one word at a time. Written in Rails.
 
 ---
 
+
 {:.center}
-[![]({{ site.baseurl }}/img/just-write.png)](https://kellymason-just-write.herokuapp.com)
+[![]({{ site.baseurl }}/img/just-write-2.png)](https://kellymason-just-write.herokuapp.com)
+
+![]({{ site.baseurl }}/img/just-write.png)
 
 ## Socially accountable journaling.
 

@@ -2,7 +2,7 @@
 layout: post
 title: GetItDone
 thumbnail-path: "img/get-it-done.png"
-short-description: Don't just cross things off your list—destroy them.
+short-description: Don't just cross things off your list—destroy them. Separate versions written in Rails and Vanilla JS.
 
 ---
 
