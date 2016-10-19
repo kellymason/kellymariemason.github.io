@@ -5,7 +5,7 @@ url: "http://kellymariemason.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Kelly Mason # Your name will go here
+  title: Kelly Mason
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
